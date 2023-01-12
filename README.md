@@ -1,7 +1,8 @@
 # Demo
 
 My first Github repo!
-
+by
+Shanusagari
 
 ## Sub-Heading
 
